@@ -1,0 +1,1 @@
+# Multi-frequency-3D-printed-Hand-Phantom-for-Electromagnetic-Measurements
