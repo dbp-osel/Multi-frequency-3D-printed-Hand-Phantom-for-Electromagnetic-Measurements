@@ -1,3 +1,10 @@
+o	This repository has been archived and is no longer maintained.
+
+o	The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+
+o	It should not be used in production systems.
+
+
 # Multi-frequency-3D-printed-Hand-Phantom-for-Electromagnetic-Measurements
 These 3D print files are for the hand phantom described in the paper: 
 A Multi-frequency 3D printed Hand Phantom for Electromagnetic Measurements,
